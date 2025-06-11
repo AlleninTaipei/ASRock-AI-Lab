@@ -426,3 +426,8 @@ This document presents the key training parameters for training a Large-Language
 | Learning Rate Scheduler Type | cosine | The type of learning rate scheduler used to adjust the learning rate during training. Common options include "cosine" and "linear". The cosine LR schedule follows a cosine pattern, where the learning rate is gradually decreased from the initial value to a minimum value and then increased again towards the end of training. The linear LR schedule linearly decreases the learning rate from an initial value to a final value over the course of the training process at a constant rate with each epoch.|
 | Number of Training Epochs | 3 | The number of complete passes through the entire training dataset during training. More epochs generally lead to better performance but may also overfit the model to the training data. |
 | Optimizer | AdamW | The optimization algorithm used to update the model weights during training. Common options include "AdamW". AdamW is a variant of the Adam optimization algorithm that combines adaptive learning rates and momentum with L2 regularization (weight decay) to prevent overfitting and improve generalization performance. |
+
+---
+
+![image](assets/asrdeeptuner.png)
+
