@@ -28,7 +28,7 @@ Local ASRChat offers a suite of AI-driven features designed to enhance productiv
 
 - **Chat with AI**: Conversational AI assistant for various tasks.
 - **Translation**: Multi-language translation services.
-- **Image Scene and Text Recognition **: AI-based image and text analysis.
+- **Image Scene and Text Recognition**: AI-based image and text analysis.
 - **Text-to-Image Generation**: AI-powered image creation from text.
 - **Web Search**: Secure and efficient information retrieval.
 - **Speech-to-Text**: Converts spoken words into text.
